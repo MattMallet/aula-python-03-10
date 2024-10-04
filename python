@@ -1,0 +1,31 @@
+# x = float(input("Digite o valor de X:"))
+#
+# if x >= 0 and x<=2:
+#     y = x
+# elif x > 2 and x <=3.5:
+#     y = 2
+# elif x > 3.5 and x <= 5:
+#     y = 3
+# elif x > 5:
+#     y = x ** 2 - 10 * x + 28
+#
+# print(y)
+
+
+# idade = 19
+# nome = "Mateus"
+# preco = 10
+# txt = "%s tem %d anos e seu lanche custa R$.2f" % (nome, idade, preco)
+# txt = "{:*>15s} tem {} anos e seu lanche custa R${:.2f}" format(nome, idade,preco)
+# txt = f"{nome:-^15s} tem {idade} anos e seu lanche custa R${preco:.2f}"
+# print(f"{nome:-^15s} tem {idade} anos e seu lanche custa R${preco:.2f}")
+
+# a = "Hoje tem aula!"
+# print(a)
+# print(a[13::-1])
+
+# texto = "Hoje tem aula!"
+#
+# print(texto)
+# print(texto[1::2])
+# print(texto[1::2])
